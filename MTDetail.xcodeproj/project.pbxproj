@@ -13,10 +13,10 @@
 		B268EC5D1C9A9F1A001D87DC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B268EC5B1C9A9F1A001D87DC /* Main.storyboard */; };
 		B268EC5F1C9A9F1A001D87DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B268EC5E1C9A9F1A001D87DC /* Assets.xcassets */; };
 		B268EC621C9A9F1A001D87DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B268EC601C9A9F1A001D87DC /* LaunchScreen.storyboard */; };
-		B268EC711C9A9F41001D87DC /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B268EC6A1C9A9F41001D87DC /* BaseViewController.m */; };
-		B268EC721C9A9F41001D87DC /* OneTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B268EC6C1C9A9F41001D87DC /* OneTableViewController.m */; };
-		B268EC731C9A9F41001D87DC /* ProductViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B268EC6E1C9A9F41001D87DC /* ProductViewController.m */; };
-		B268EC741C9A9F41001D87DC /* TwoTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B268EC701C9A9F41001D87DC /* TwoTableViewController.m */; };
+		B268EC7D1C9AA0B5001D87DC /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B268EC761C9AA0B5001D87DC /* BaseViewController.m */; };
+		B268EC7E1C9AA0B5001D87DC /* OneTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B268EC781C9AA0B5001D87DC /* OneTableViewController.m */; };
+		B268EC7F1C9AA0B5001D87DC /* ProductViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B268EC7A1C9AA0B5001D87DC /* ProductViewController.m */; };
+		B268EC801C9AA0B5001D87DC /* TwoTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B268EC7C1C9AA0B5001D87DC /* TwoTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,14 +30,14 @@
 		B268EC5E1C9A9F1A001D87DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B268EC611C9A9F1A001D87DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B268EC631C9A9F1A001D87DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B268EC691C9A9F41001D87DC /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
-		B268EC6A1C9A9F41001D87DC /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
-		B268EC6B1C9A9F41001D87DC /* OneTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneTableViewController.h; sourceTree = "<group>"; };
-		B268EC6C1C9A9F41001D87DC /* OneTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneTableViewController.m; sourceTree = "<group>"; };
-		B268EC6D1C9A9F41001D87DC /* ProductViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProductViewController.h; sourceTree = "<group>"; };
-		B268EC6E1C9A9F41001D87DC /* ProductViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProductViewController.m; sourceTree = "<group>"; };
-		B268EC6F1C9A9F41001D87DC /* TwoTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoTableViewController.h; sourceTree = "<group>"; };
-		B268EC701C9A9F41001D87DC /* TwoTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoTableViewController.m; sourceTree = "<group>"; };
+		B268EC751C9AA0B5001D87DC /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
+		B268EC761C9AA0B5001D87DC /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
+		B268EC771C9AA0B5001D87DC /* OneTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneTableViewController.h; sourceTree = "<group>"; };
+		B268EC781C9AA0B5001D87DC /* OneTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneTableViewController.m; sourceTree = "<group>"; };
+		B268EC791C9AA0B5001D87DC /* ProductViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProductViewController.h; sourceTree = "<group>"; };
+		B268EC7A1C9AA0B5001D87DC /* ProductViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProductViewController.m; sourceTree = "<group>"; };
+		B268EC7B1C9AA0B5001D87DC /* TwoTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoTableViewController.h; sourceTree = "<group>"; };
+		B268EC7C1C9AA0B5001D87DC /* TwoTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +54,6 @@
 		B268EC461C9A9F1A001D87DC = {
 			isa = PBXGroup;
 			children = (
-				B268EC691C9A9F41001D87DC /* BaseViewController.h */,
-				B268EC6A1C9A9F41001D87DC /* BaseViewController.m */,
-				B268EC6B1C9A9F41001D87DC /* OneTableViewController.h */,
-				B268EC6C1C9A9F41001D87DC /* OneTableViewController.m */,
-				B268EC6D1C9A9F41001D87DC /* ProductViewController.h */,
-				B268EC6E1C9A9F41001D87DC /* ProductViewController.m */,
-				B268EC6F1C9A9F41001D87DC /* TwoTableViewController.h */,
-				B268EC701C9A9F41001D87DC /* TwoTableViewController.m */,
 				B268EC511C9A9F1A001D87DC /* MTDetail */,
 				B268EC501C9A9F1A001D87DC /* Products */,
 			);
@@ -78,6 +70,14 @@
 		B268EC511C9A9F1A001D87DC /* MTDetail */ = {
 			isa = PBXGroup;
 			children = (
+				B268EC751C9AA0B5001D87DC /* BaseViewController.h */,
+				B268EC761C9AA0B5001D87DC /* BaseViewController.m */,
+				B268EC771C9AA0B5001D87DC /* OneTableViewController.h */,
+				B268EC781C9AA0B5001D87DC /* OneTableViewController.m */,
+				B268EC791C9AA0B5001D87DC /* ProductViewController.h */,
+				B268EC7A1C9AA0B5001D87DC /* ProductViewController.m */,
+				B268EC7B1C9AA0B5001D87DC /* TwoTableViewController.h */,
+				B268EC7C1C9AA0B5001D87DC /* TwoTableViewController.m */,
 				B268EC551C9A9F1A001D87DC /* AppDelegate.h */,
 				B268EC561C9A9F1A001D87DC /* AppDelegate.m */,
 				B268EC581C9A9F1A001D87DC /* ViewController.h */,
@@ -169,11 +169,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B268EC741C9A9F41001D87DC /* TwoTableViewController.m in Sources */,
-				B268EC731C9A9F41001D87DC /* ProductViewController.m in Sources */,
-				B268EC721C9A9F41001D87DC /* OneTableViewController.m in Sources */,
+				B268EC801C9AA0B5001D87DC /* TwoTableViewController.m in Sources */,
+				B268EC7F1C9AA0B5001D87DC /* ProductViewController.m in Sources */,
+				B268EC7E1C9AA0B5001D87DC /* OneTableViewController.m in Sources */,
 				B268EC5A1C9A9F1A001D87DC /* ViewController.m in Sources */,
-				B268EC711C9A9F41001D87DC /* BaseViewController.m in Sources */,
+				B268EC7D1C9AA0B5001D87DC /* BaseViewController.m in Sources */,
 				B268EC571C9A9F1A001D87DC /* AppDelegate.m in Sources */,
 				B268EC541C9A9F1A001D87DC /* main.m in Sources */,
 			);
@@ -324,6 +324,7 @@
 				B268EC681C9A9F1A001D87DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
